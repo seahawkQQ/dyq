@@ -2,9 +2,9 @@
 // 部署完成后在网址后面加上这个，只获取自建节点，/?token=xxoo
 
 
-const mytoken = '9c48087a-c86e-48c6-af82-4ea15e1c6aa8'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
-const tgbottoken ='6501178601:AAF2F5RYMjwM7DaEHF7SYvjrPZipk43xmfo'; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
-const tgchatid ='1028572195'; //可以为空，或者@userinfobot中获取，/start
+const mytoken = '9c46aa8'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
+const tgbottoken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
+const tgchatid =''; //可以为空，或者@userinfobot中获取，/start
 
 //自建节点
 const MainData = `
